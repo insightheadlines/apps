@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fd65429.css",
-    "main.js": "/static/js/main.65a59b71.js",
-    "static/media/upto.png": "/static/media/upto.59e73fdf91b1711f5923.png",
-    "static/media/logo.png": "/static/media/logo.b0716636efdad2aa7e0a.png",
+    "main.css": "/static/css/main.b340514f.css",
+    "main.js": "/static/js/main.42a43c21.js",
+    "static/media/title.png": "/static/media/title.81b3b513974ec6c341a4.png",
+    "static/media/uni.png": "/static/media/uni.3d056ea8009d570d519d.png",
+    "static/media/app.png": "/static/media/app.f23212f42cc4a36d565b.png",
+    "static/media/logo.png": "/static/media/logo.afba8ea3572ef3df12d1.png",
+    "static/media/breakdown.png": "/static/media/breakdown.bcad22da7b0d84db30a6.png",
+    "static/media/stopwatch.png": "/static/media/stopwatch.bdd176390cbea52e7ea0.png",
+    "static/media/repair.png": "/static/media/repair.b90d0104cb3de961add0.png",
+    "static/media/insurance.png": "/static/media/insurance.ed1174c7f4507d10762d.png",
+    "static/media/delivery.png": "/static/media/delivery.15b095a5e24127539eda.png",
+    "static/media/playstore.png": "/static/media/playstore.6c198463294720b29804.png",
+    "static/media/diagnosis.png": "/static/media/diagnosis.23195f7fb9fe864602af.png",
+    "static/media/payment.png": "/static/media/payment.b236b60e743bc85d9208.png",
+    "static/media/approve.png": "/static/media/approve.1c1df720a788e4938336.png",
     "index.html": "/index.html",
-    "main.3fd65429.css.map": "/static/css/main.3fd65429.css.map",
-    "main.65a59b71.js.map": "/static/js/main.65a59b71.js.map"
+    "main.b340514f.css.map": "/static/css/main.b340514f.css.map",
+    "main.42a43c21.js.map": "/static/js/main.42a43c21.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd65429.css",
-    "static/js/main.65a59b71.js"
+    "static/css/main.b340514f.css",
+    "static/js/main.42a43c21.js"
   ]
 }
